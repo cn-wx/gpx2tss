@@ -26,3 +26,6 @@ The first version of this project converts [loadmon](https://github.com/comamitc
 
 [2]. Bike and run pacing on downhill segments predict Ironman triathlon
 relative success
+
+## License
+This project is under [MIT](https://github.com/cn-wx/gpx2tss/blob/master/LICENSE) license.
