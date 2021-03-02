@@ -4,8 +4,6 @@
 
 This project aims to converting GPX training stats exported from Garmin to Training Stress Score.
 
-The first version of this project converts [loadmon](https://github.com/comamitc/loadmon) from Clojure to JavaScript.
-
 ## To-do list
 
 - [x] Convert Clojure to JavaScript.
