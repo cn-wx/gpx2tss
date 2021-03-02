@@ -26,4 +26,4 @@ This project aims to converting GPX training stats exported from Garmin to Train
 relative success
 
 ## License
-This project is under [MIT](https://github.com/cn-wx/gpx2tss/blob/master/LICENSE) license.
+This project is under [MIT](https://github.com/jamesxwang/gpx2tss/blob/master/LICENSE) license.
